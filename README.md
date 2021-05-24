@@ -8,7 +8,8 @@
 <h1 align="center">Hi 👋, I'm Shah Hussain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-I'm Shah Hussain. I am passionate Full stack JavaScript Web Development. I like to learn new technologies. I am a Tech-Lover.
+<h3>Hi! I am <font color="DarkOrchid" >Shah Hussain , a web designer/developer</font>  focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since last year. I enjoy creating beautifully designed, intuitive and functional websites.
+  I am very passionate about Full Stack Web Development with Javascript. I am a Tech-Lover.
 
 Skills: PHP / MYSQL / REACT / JS / HTML / CSS
 
