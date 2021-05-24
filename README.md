@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Shah Hussain
-#### A passionate frontend developer 👨‍💻  from India.
-![A passionate frontend developer 👨‍💻  from India.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- #Hi there 👋, My name is Shah Hussain
+# A passionate frontend developer 👨‍💻  from India. -->
+<h1 align="center">Hi 👋, I'm Shah Hussain</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 I'm Shah Hussain. I am passionate Full stack JavaScript Web Development. I like to learn new technologies. I am a Tech-Lover.
 
