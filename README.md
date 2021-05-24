@@ -1,7 +1,7 @@
 <!-- #Hi there 👋, My name is Shah Hussain
 # A passionate frontend developer 👨‍💻  from India. -->
 
-<p align="center"><img src="banner.png"></p>
+<p align="center"><img src="banner-hero.gif"></p>
 
 
 
