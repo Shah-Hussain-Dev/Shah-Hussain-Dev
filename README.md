@@ -1,7 +1,7 @@
 <!-- #Hi there 👋, My name is Shah Hussain
 # A passionate frontend developer 👨‍💻  from India. -->
 
-<p align="center"><img src="banner-hero.gif"></p>
+<p align="center"><img src="hero.gif"></p>
 
 
 
@@ -13,7 +13,7 @@
   
 
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Full Stact Javascript Development 
 - 💬 Ask me about Web Designing , Web Development 
 - 👨‍💻 All of my projects are available at [https://github.com/Shah-Hussain-Dev/MyPortfolio](https://github.com/Shah-Hussain-Dev/MyPortfolio)
