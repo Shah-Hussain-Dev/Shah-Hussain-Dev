@@ -1,12 +1,12 @@
 <!-- #Hi there 👋, My name is Shah Hussain
-# A passionate frontend developer 👨‍💻  from India. -->
+# A passionate Web developer 👨‍💻  from India. -->
 
 <p align="center"><img src="hero.gif"></p>
 
 
 
 <h1 align="center">Hi 👋, I'm Shah Hussain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <h3>Hi! I am <font color="purple" >Shah Hussain , a web designer/developer</font>  focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since last year. I enjoy creating beautifully designed, intuitive and functional websites.
   I am very passionate about Full Stack Web Development with Javascript. I am a Tech-Lover.</h3>
