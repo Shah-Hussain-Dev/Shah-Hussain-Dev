@@ -8,13 +8,13 @@
 <h1 align="center">Hi 👋, I'm Shah Hussain</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<h3>Hi! I am <font color="purple" >Shah Hussain ,A Full Stack Web Developer (MERN) with expertise in designing and developing intuitive web applications using a range of technologies. Proficient in both front-end development with HTML, CSS, JavaScript, and React, and back-end development with Node.js and various databases. Experienced in delivering high-quality software solutions that meet business requirements. Passionate about staying up-to-date with emerging technologies and trends to continuously improve the development process. </h3>
+<h3>Hi! I am <font color="purple" >Shah Hussain ,A Full Stack Web and Mobile Developer with expertise in designing and developing intuitive web applications using a range of technologies. Proficient in both front-end development with HTML, CSS, JavaScript, and React, React Native and back-end development with Node.js and various databases. Experienced in delivering high-quality software solutions that meet business requirements. Passionate about staying up-to-date with emerging technologies and trends to continuously improve the development process. </h3>
   
 
 
 
-- 🌱 I’m currently learning Full Stact Javascript Development 
-- 💬 Ask me about Web Designing , Web Development 
+- 🌱 I’m currently build Innovative IOT Healthcare System at YoloHealth as  Full Stact Developer. 
+- 💬 Ask me about Web Designing , Web Development, MERN, MEAN, Typescript, AI, ChatGPT, React Native, Mobile Development.
 - 👨‍💻 All of my projects are available at [https://github.com/Shah-Hussain-Dev/MyPortfolio](https://github.com/Shah-Hussain-Dev/MyPortfolio)
 - 📫 How to reach me: shahhussaindev@gmail.com 
 - 
